@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.shopping.ShoppingPlugin</id>
+    <class>com.ssrs.shopping.ShoppingPlugin</class>
+    <name>shopping</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>shopping</description>
+
+</plugin>
